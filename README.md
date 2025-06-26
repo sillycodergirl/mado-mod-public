@@ -21,7 +21,7 @@ You must have Haxe installed to do anything seen below. Download it [here](https
 It would be best to follow HaxeFlixel's own guide to do the next to install very needed things like `lime` and `openfl`. You can view that [here](https://haxeflixel.com/documentation/install-haxeflixel/).
 
 **VERY IMPORTANT!**
-> If you're targeting for C++ (which you most likely are), you need to download the c++ stuff for it. Download that stuff here: https://github.com/ShadowMario/FNF-PsychEngine/blob/main/setup/setup-msvc-win.bat
+> If you're targeting for C++ (which you most likely are), you need to download the c++ stuff for it. Download that stuff here: https://github.com/ShadowMario/FNF-PsychEngine/blob/main/setup/windows-msvc.bat
 
 
 Please see the list of libraries that are best suited for the compilation of this mod:
@@ -33,7 +33,7 @@ tjson - 1.4.0
 linc_luajit - https://github.com/superpowers04/linc_luajit.git
 SScript - **SEE COMMANDS BELOW**
 hxvlc - https://github.com/MAJigsaw77/hxvlc
-hxdiscord_rpc - https://github.com/MAJigsaw77/hxdiscord_rpc
+hxdiscord_rpc - 1.2.4
 flxanimate - https://github.com/Dot-Stuff/flxanimate/
 
 // These should all be downloaded automatically but just incase.
