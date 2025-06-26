@@ -37,6 +37,11 @@ class Initial extends MusicBeatState {
         FlxG.mouse.visible = false;
 
         super.create();
+
+        #if !cpp
+        FlxG.switchState(new states.PiracyState());
+        #else
         FlxG.switchState(cast(Type.createInstance(Main.game.initialState, []), FlxState));
+        #end
     }
 }
