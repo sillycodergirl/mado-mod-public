@@ -68,22 +68,23 @@ Once you're in the project directory, run `lime test windows` to start the game 
 The first time will take awhile (5-20 minutes depending on your hardware). After that, it should only take a matter of seconds.
 
 ## Credits
-[Eyeben](https://x.com/IBNVintage) - Director & Artist
-[Ultraweh](https://x.com/UltraWeh) - Co-Director, Artist, Musician, Charter
-[TheoryOfEverything](https://x.com/gdLevelTwelve) - Musician
-[Byzafyre](https://x.com/byzafyre) - Charter
-[SillyCoderGirl](https://x.com/sillycodergirl) - Coder
-[Ari_The_When](https://x.com/Ari_the_when) - Musician
-[L.Creeper](https://x.com/CartoonSpeed) - Charter
-[ItsSarah](https://x.com/themariogal) - Artist
-[JosephTL](https://x.com/TLimbless) - F.C. Sprites
+- [Eyeben](https://x.com/IBNVintage) - Director & Artist
+- [Ultraweh](https://x.com/UltraWeh) - Co-Director, Artist, Musician, Charter
+- [TheoryOfEverything](https://x.com/gdLevelTwelve) - Musician
+- [Byzafyre](https://x.com/byzafyre) - Charter
+- [SillyCoderGirl](https://x.com/sillycodergirl) - Coder
+- [Ari_The_When](https://x.com/Ari_the_when) - Musician
+- [L.Creeper](https://x.com/CartoonSpeed) - Charter
+- [ItsSarah](https://x.com/themariogal) - Artist
+- [JosephTL](https://x.com/TLimbless) - F.C. Sprites
 
 **Special Thanks**
-[ItsSuperDude](https://x.com/Itssuperdude)
-[BillionSwing](https://x.com/Billion_Swing)
-LazyEric
-[IcePopLOL](https://x.com/icepoplolNG)
-[oatmealine](https://oat.zone/) - Creator of the shader used on the nexus BG (I found on [shadertoy](https://www.shadertoy.com/view/wtlyzH))
+
+- [ItsSuperDude](https://x.com/Itssuperdude)
+- [BillionSwing](https://x.com/Billion_Swing)
+- LazyEric
+- [IcePopLOL](https://x.com/icepoplolNG)
+- [oatmealine](https://oat.zone/) - Creator of the shader used on the nexus BG (I found on [shadertoy](https://www.shadertoy.com/view/wtlyzH))
 
 ## Last Important Notes
 I won't be taking the time to fix niche issues with your build or any modifications you do to this code. Don't try to get the attention of any of the developers for this purpose. The point of this code being open source is to share knowledge with anyone who may be curious. With that, enjoy!
