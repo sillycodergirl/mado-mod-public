@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="losing0000" x="12" y="12" width="118" height="105"/>
+	<SubTexture name="neutral0000" x="166" y="12" width="132" height="95"/>
+	<SubTexture name="transition_losing0000" x="334" y="12" width="127" height="108"/>
+	<SubTexture name="transition_losing0001" x="334" y="12" width="127" height="108"/>
+	<SubTexture name="transition_losing0002" x="497" y="12" width="127" height="108"/>
+	<SubTexture name="transition_losing0003" x="497" y="12" width="127" height="108"/>
+	<SubTexture name="transition_losing0004" x="660" y="12" width="127" height="108"/>
+	<SubTexture name="transition_losing0005" x="660" y="12" width="127" height="108"/>
+	<SubTexture name="transition_neutral0000" x="823" y="12" width="132" height="99"/>
+	<SubTexture name="transition_neutral0001" x="823" y="12" width="132" height="99"/>
+	<SubTexture name="transition_neutral0002" x="991" y="12" width="132" height="99"/>
+	<SubTexture name="transition_neutral0003" x="991" y="12" width="132" height="99"/>
+	<SubTexture name="transition_winning0000" x="1159" y="12" width="127" height="106"/>
+	<SubTexture name="transition_winning0001" x="1159" y="12" width="127" height="106"/>
+	<SubTexture name="transition_winning0002" x="1322" y="12" width="127" height="106"/>
+	<SubTexture name="transition_winning0003" x="1322" y="12" width="127" height="106"/>
+	<SubTexture name="transition_winning0004" x="1485" y="12" width="127" height="106"/>
+	<SubTexture name="transition_winning0005" x="1485" y="12" width="127" height="106"/>
+	<SubTexture name="winning0000" x="1648" y="12" width="124" height="102"/>
+</TextureAtlas>

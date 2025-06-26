@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stupidcountdown.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="go0000" x="29" y="29" width="125" height="206"/>
+	<SubTexture name="go0001" x="29" y="29" width="125" height="206"/>
+	<SubTexture name="go0002" x="200" y="29" width="125" height="206"/>
+	<SubTexture name="go0003" x="200" y="29" width="125" height="206"/>
+	<SubTexture name="go0004" x="371" y="29" width="125" height="206"/>
+	<SubTexture name="go0005" x="371" y="29" width="125" height="206"/>
+	<SubTexture name="go0006" x="542" y="29" width="125" height="206"/>
+	<SubTexture name="go0007" x="542" y="29" width="125" height="206"/>
+	<SubTexture name="go0008" x="29" y="281" width="125" height="206"/>
+	<SubTexture name="go0009" x="29" y="281" width="125" height="206"/>
+	<SubTexture name="go0010" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0011" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0012" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0013" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0014" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0015" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0016" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0017" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0018" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0019" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0020" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0021" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="go0022" x="200" y="281" width="125" height="206"/>
+	<SubTexture name="one0000" x="371" y="281" width="108" height="94"/>
+	<SubTexture name="one0001" x="371" y="281" width="108" height="94"/>
+	<SubTexture name="one0002" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0003" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0004" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0005" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0006" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0007" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="one0008" x="525" y="281" width="108" height="94"/>
+	<SubTexture name="three0000" x="29" y="533" width="110" height="95"/>
+	<SubTexture name="three0001" x="29" y="533" width="110" height="95"/>
+	<SubTexture name="three0002" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0003" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0004" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0005" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0006" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0007" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="three0008" x="185" y="533" width="110" height="95"/>
+	<SubTexture name="two0000" x="341" y="533" width="111" height="95"/>
+	<SubTexture name="two0001" x="341" y="533" width="111" height="95"/>
+	<SubTexture name="two0002" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0003" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0004" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0005" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0006" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0007" x="498" y="533" width="111" height="95"/>
+	<SubTexture name="two0008" x="498" y="533" width="111" height="95"/>
+</TextureAtlas>

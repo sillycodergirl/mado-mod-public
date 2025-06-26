@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mado_icon.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="losing0000" x="12" y="12" width="126" height="119"/>
+	<SubTexture name="neutral0000" x="174" y="12" width="130" height="111"/>
+	<SubTexture name="transition_losing0000" x="340" y="12" width="137" height="120"/>
+	<SubTexture name="transition_losing0001" x="340" y="12" width="137" height="120"/>
+	<SubTexture name="transition_losing0002" x="513" y="12" width="137" height="120"/>
+	<SubTexture name="transition_losing0003" x="513" y="12" width="137" height="120"/>
+	<SubTexture name="transition_losing0004" x="686" y="12" width="137" height="120"/>
+	<SubTexture name="transition_losing0005" x="686" y="12" width="137" height="120"/>
+	<SubTexture name="transition_neutral0000" x="859" y="12" width="137" height="114"/>
+	<SubTexture name="transition_neutral0001" x="859" y="12" width="137" height="114"/>
+	<SubTexture name="transition_neutral0002" x="1032" y="12" width="137" height="114"/>
+	<SubTexture name="transition_neutral0003" x="1032" y="12" width="137" height="114"/>
+	<SubTexture name="transition_winning0000" x="1205" y="12" width="138" height="118"/>
+	<SubTexture name="transition_winning0001" x="1205" y="12" width="138" height="118"/>
+	<SubTexture name="transition_winning0002" x="1379" y="12" width="138" height="118"/>
+	<SubTexture name="transition_winning0003" x="1379" y="12" width="138" height="118"/>
+	<SubTexture name="transition_winning0004" x="1553" y="12" width="138" height="118"/>
+	<SubTexture name="transition_winning0005" x="1553" y="12" width="138" height="118"/>
+	<SubTexture name="winning0000" x="1727" y="12" width="120" height="114"/>
+</TextureAtlas>

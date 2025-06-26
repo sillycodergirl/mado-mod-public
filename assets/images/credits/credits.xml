@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="credits.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsdoodles00000" x="31" y="31" width="1133" height="631"/>
+	<SubTexture name="creditsdoodles10000" x="31" y="675" width="1011" height="524"/>
+	<SubTexture name="creditsdoodles20000" x="31" y="1212" width="1094" height="608"/>
+	<SubTexture name="creditsdoodles30000" x="31" y="1833" width="1103" height="616"/>
+	<SubTexture name="creditsdoodles40000" x="31" y="2462" width="1033" height="652"/>
+</TextureAtlas>

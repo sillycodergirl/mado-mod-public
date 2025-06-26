@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="textbox.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textbox0000" x="23" y="23" width="392" height="128"/>
+	<SubTexture name="textbox0001" x="23" y="23" width="392" height="128"/>
+	<SubTexture name="textbox0002" x="23" y="23" width="392" height="128"/>
+	<SubTexture name="textbox0003" x="23" y="189" width="392" height="128"/>
+	<SubTexture name="textbox0004" x="23" y="189" width="392" height="128"/>
+	<SubTexture name="textbox0005" x="23" y="355" width="392" height="128"/>
+	<SubTexture name="textbox0006" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0007" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0008" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0009" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0010" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0011" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0012" x="23" y="521" width="392" height="128"/>
+	<SubTexture name="textbox0013" x="23" y="687" width="392" height="128"/>
+	<SubTexture name="textbox0014" x="23" y="687" width="392" height="128"/>
+	<SubTexture name="textbox0015" x="23" y="853" width="392" height="128"/>
+	<SubTexture name="textbox0016" x="23" y="853" width="392" height="128"/>
+	<SubTexture name="textbox0017" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0018" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0019" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0020" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0021" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0022" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0023" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0024" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0025" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0026" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0027" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0028" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0029" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0030" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0031" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0032" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0033" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0034" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0035" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0036" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0037" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0038" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0039" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0040" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0041" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0042" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0043" x="23" y="1019" width="392" height="128"/>
+	<SubTexture name="textbox0044" x="23" y="1019" width="392" height="128"/>
+</TextureAtlas>

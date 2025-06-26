@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backarrow.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backbuttonclean0000" x="31" y="31" width="110" height="120"/>
+	<SubTexture name="backbuttonhighlight0000" x="154" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0001" x="154" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0002" x="154" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0003" x="154" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0004" x="300" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0005" x="300" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0006" x="300" y="31" width="133" height="155"/>
+	<SubTexture name="backbuttonhighlight0007" x="300" y="31" width="133" height="155"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menubuttons.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits_idle0000" x="12" y="12" width="236" height="116"/>
+	<SubTexture name="credits_select0000" x="284" y="12" width="236" height="116"/>
+	<SubTexture name="freeplay_idle0000" x="12" y="164" width="217" height="137"/>
+	<SubTexture name="freeplay_select0000" x="265" y="164" width="217" height="137"/>
+	<SubTexture name="mado_idle0000" x="12" y="337" width="259" height="159"/>
+	<SubTexture name="mado_select0000" x="307" y="337" width="259" height="159"/>
+	<SubTexture name="options_idle0000" x="12" y="532" width="196" height="140"/>
+	<SubTexture name="options_select0000" x="244" y="532" width="196" height="140"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"storyName": "Yume Nicky ~ Dreamin Aint Easy",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mado",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Snooze",
+			"bf",
+			[
+				166,
+				33,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Snooze",
+	"hiddenUntilUnlocked": false
+}
